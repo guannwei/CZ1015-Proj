@@ -1,7 +1,26 @@
-# CZ1015-Proj
+# CZ1015 Intro to Data Sci & AI Mini Proj
 
-1. Prediction of cause of accident 
-2. Predict accident rate by season
-3. Predict amount of accidents under weather condition(fatality/injuries)
-4. Predict damage of aircraft based on weather/model/amount of passengers/how many injured/fatalities
-5. Preduct number of injuries based on weather/model/amount of passengers/aircraft damage
+## Dataset: Aviation Accident Database
+https://www.kaggle.com/khsamaha/aviation-accident-database-synopses
+
+## Problem Statement:
+How can we improve the safety of an aircraft?
+
+## Conclusion:
+
+
+
+## Slides:
+>
+
+
+## Workload Distribution:
+* Data Cleaning: Guan Wei <br>
+* Exploratory Analysis & Visualization: Malcom, HeonJung, Guan Wei <br>
+* Machine Learning:<br>
+  * Logistic Regression: Guan Wei<br>
+  * K-Nearest Neighbours, Decision Tree Classifier, Random Forest Classifier: Malcom<br>
+  * Catboost: Keith<br>
+* Slides: HeonJung<br>
+
+
