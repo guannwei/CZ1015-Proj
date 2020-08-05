@@ -6,14 +6,6 @@ https://www.kaggle.com/khsamaha/aviation-accident-database-synopses
 ## Problem Statement:
 How can we improve the safety of an aircraft?
 
-## Conclusion:
-
-
-
-## Slides:
->
-
-
 ## Workload Distribution:
 * Data Cleaning: Guan Wei <br>
 * Exploratory Analysis & Visualization: Malcom, HeonJung, Guan Wei <br>
